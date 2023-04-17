@@ -35,7 +35,5 @@
         "Notify": "Mckenziearts\\Notify\\Facades\\LaravelNotify"
       }
     }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }
