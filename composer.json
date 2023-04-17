@@ -1,12 +1,8 @@
 {
-  "name": "mckenziearts/laravel-notify",
+  "name": "coderslab/laravel-notify",
   "description": "Flexible flash notifications for Laravel",
   "keywords": ["Laravel", "laravel-notify", "notification"],
   "license": "MIT",
-  "support": {
-    "issues": "https://github.com/mckenziearts/laravel-notify/issues",
-    "source": "https://github.com/mckenziearts/laravel-notify"
-  },
   "authors": [
     {
       "name": "Arthur Monney",
