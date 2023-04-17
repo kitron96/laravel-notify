@@ -13,7 +13,7 @@
             <div class="h-40 relative rounded-md shadow-xs overflow-hidden">
                 @if(session()->get('notify.type') === 'success')
                     <img class="absolute inset-0" src="{{ asset('/vendor/mckenziearts/laravel-notify/images/drake-success.jpg') }}" alt="">
-                    <div class="bg-green-500 absolute inset-0 opacity-75"></div>
+                    <div class="bg-green-600 absolute inset-0 opacity-75"></div>
                 @else
                     <img class="absolute inset-0" src="{{ asset('/vendor/mckenziearts/laravel-notify/images/drake-error.jpg') }}" alt="">
                     <div class="bg-red-500 absolute inset-0 opacity-75"></div>
