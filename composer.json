@@ -3,6 +3,7 @@
   "description": "Flexible flash notifications for Laravel",
   "keywords": ["Laravel", "laravel-notify", "notification"],
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Arthur Monney",
